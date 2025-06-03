@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hey, I'm Udith Biju</h1>
 
-<pre>
+toml 
+
 
 [personal]
 name = 'Udith Biju'
@@ -16,11 +17,15 @@ title = [
 ]
 
 [bio]
-interests = [
-  'Web Development',
-  'Backend Development'
-  'DevOps',
-  'Cyber Security'
+
+[interests]
+
+domains = [
+  "API Development",
+  "Authentication & Authorization",
+  "DevOps",
+  "Backend Development",
+  "Web Development"
 ]
 
 programming-languages = [
@@ -28,6 +33,7 @@ programming-languages = [
   'TypeScript',
   'C/C++',
   'Python'
+  'Php'
 ]
 
 operating-system = [
@@ -41,9 +47,13 @@ database = [
   'Postgsql',  
   'MongoDb'
 ]
-</pre>
 
----
+[projects]
+major = [
+  "File Sharing App (WebRTC + Chunked Streaming)",
+  "KEAM Rank Predictor (ML + Node.js + MongoDB)",
+]
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/udith-biju/" target="_blank">
@@ -54,6 +64,17 @@ database = [
     <img src="https://img.icons8.com/ios-filled/30/000000/gmail.png" alt="Gmail" />
   </a>
 </p>
+
+
+
+
+
+
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mohdjishin&show_icons=true"  /> 
+
+
+
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mohdjishin&show_icons=true"  /> 
 
 
 
