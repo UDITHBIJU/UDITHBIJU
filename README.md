@@ -1,25 +1,22 @@
 <h1 align="center">👋 Hey, I'm Udith Biju</h1>
 
-toml 
-
-
+```toml
 [personal]
-name = 'Udith Biju'
-location = 'Kerala, India'
-email = ['udithbiju2', 'at', 'gmail.com']
+name = "Udith Biju"
+location = "Kerala, India"
+email = ["udithbiju2", "at", "gmail.com"]
 
 [professional]
-currently-employed = false
+currently_employed = false
 title = [
-  'Full Stack-Developer',
-  'Backend Developer',
-  'Software Engineer'
+  "Full Stack Developer",
+  "Backend Developer",
+  "Software Engineer"
 ]
 
 [bio]
 
 [interests]
-
 domains = [
   "API Development",
   "Authentication & Authorization",
@@ -28,32 +25,30 @@ domains = [
   "Web Development"
 ]
 
-programming-languages = [
-  'JavaScript',
-  'TypeScript',
-  'C/C++',
-  'Python'
-  'Php'
+programming_languages = [
+  "JavaScript",
+  "TypeScript",
+  "C/C++",
+  "Python",
+  "PHP"
 ]
 
-operating-system = [
-  'Linux',
-  'Windows'
+operating_systems = [
+  "Linux",
+  "Windows"
 ]
 
 database = [
-  'MySQL',
-  'MongoDB'
-  'Postgsql',  
-  'MongoDb'
+  "MySQL",
+  "PostgreSQL",
+  "MongoDB"
 ]
 
 [projects]
 major = [
   "File Sharing App (WebRTC + Chunked Streaming)",
-  "KEAM Rank Predictor (ML + Node.js + MongoDB)",
+  "KEAM Rank Predictor (ML + Node.js + MongoDB)"
 ]
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/udith-biju/" target="_blank">
