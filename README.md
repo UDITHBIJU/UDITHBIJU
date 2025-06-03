@@ -49,7 +49,7 @@ major = [
   "File Sharing App (WebRTC + Chunked Streaming)",
   "KEAM Rank Predictor (ML + Node.js + MongoDB)"
 ]
-
+```
 <p align="left">
   <a href="https://www.linkedin.com/in/udith-biju/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30" />
